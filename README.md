@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Image](https://fila.aleu.xyz/discord/user/665578605136576512?theme=dark&detail=true)](https://discord.com/users/665578605136576512)
+
 <!--
 **jwj7140/jwj7140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
